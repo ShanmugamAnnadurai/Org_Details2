@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 shanmugam
 Bonbloc company
 chennai location
 intern role
+=======
+shanmugam
+>>>>>>> parent of 9bb1dcc (company name commit)
